@@ -170,8 +170,8 @@ background: white; }
 
    /* M_LNB */
 
-   #m_lnb { background: white; width: 100%; padding: 0 48px; min-height: 100vh; position: fixed; overflow: scroll;
-   top:68px; left:100vw; transition: left 0.4s; }
+   #m_lnb { background: white; width: 100%; padding: 0 48px; min-height: 100vh; position: relative; overflow: scroll;
+   top:0px; left:100vw; transition: left 0.4s; }
 
    /* #m_lnb_close_button {position: absolute; top:22px; right:24px;
    border: 1px solid rgb(200,200,200); border-radius: 12px; width: 24px; height: 24px; line-height: 24px;
