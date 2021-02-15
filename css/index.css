@@ -173,6 +173,7 @@ padding: 36px; display: flex; flex-direction: column; justify-content: flex-end;
 
 .main_visual_1 {  height: 500px; 
 }
+.main_visual_1  div {display: none;}
 .main_visual_1 p:nth-child(2) { font-size: 48px; line-height: 40px;}
 
 .main_visual_2 {  height: 500px; }
