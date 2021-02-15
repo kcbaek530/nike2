@@ -14,7 +14,7 @@
 }
 .main_visual_1:hover { cursor: pointer;}
 
-.main_visual_1 figure {display: none;}
+.main_visual_1 div {display: none;}
 
 .main_visual_2 { width: 50%; height: 900px; background-image: url(../img/nike-just-do-it-2.png);
 padding: 36px; display: flex; flex-direction: column; justify-content: flex-end; align-items: flex-end;
@@ -250,7 +250,7 @@ padding: 36px; display: flex; flex-direction: column; justify-content: flex-end;
    .main_visual_1 { width:100%; height: auto; background-image: none; padding: 0px; 
    }
 
-   .main_visual_1 figure {display: block; margin: 0 0 20px 0; height: 500px; background-image: url(../img/nike-just-do-it-1.png); background-size: cover; background-position: -130px center;
+   .main_visual_1 div {display: block; margin: 0 0 20px 0; height: 500px; background-image: url(../img/nike-just-do-it-1.png); background-size: cover; background-position: -130px center;
    background-repeat: no-repeat;}
 
    .main_visual_1:hover { cursor: pointer;}
